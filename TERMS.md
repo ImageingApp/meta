@@ -2,7 +2,6 @@ Last updated: July 17th, 2022
 
 # Terms of Service
 
-* Follow Discord's TOS
 * Do not spam our services
 
 # Contact Us
