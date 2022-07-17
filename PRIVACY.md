@@ -10,4 +10,4 @@ Imageing and it's Website are 100% [open source](https://github.com/ImageingApp)
 
 # Contact Us
 
-If you have any questions about our Privacy Policy or want to delete your data from our servers, You can contact us via our [Official Discord Server](https://discord.gg/9UK5ZcY6By).
+If you have any questions about our Privacy Policy or want to delete your data from our servers, contact us via our [Official Discord Server](https://discord.gg/9UK5ZcY6By).
